@@ -1,16 +1,63 @@
-## Hi there 👋
+# Jishnu  
 
-<!--
-**cpjishnu161-blip/cpjishnu161-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | Ethical Hacking Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+I am a cybersecurity student from Kannur, Kerala, currently pursuing my training at Offenso Hackers Academy in Calicut. I have a strong interest in ethical hacking, networking, and system security. I am focused on building practical skills and gaining hands-on experience in penetration testing and vulnerability assessment.  
+
+---
+
+## Skills  
+
+Programming:  
+Python, JavaScript, C  
+
+Web Technologies:  
+HTML, CSS  
+
+Cybersecurity Tools:  
+Nmap, Metasploit, Wireshark  
+
+Operating Systems:  
+Kali Linux, Ubuntu  
+
+---
+
+## Projects  
+
+- Network Scanning  
+  Performed port scanning and service enumeration using Nmap.  
+
+- Security Testing Practice  
+  Conducted basic vulnerability assessments in controlled environments.  
+
+- Web Development Basics  
+  Built simple static web pages using HTML, CSS, and JavaScript.  
+
+---
+
+## Current Focus  
+
+- Web Application Security  
+- Penetration Testing  
+- Linux and Networking  
+
+---
+
+## GitHub Stats  
+
+GitHub Stats  
+
+---
+
+## Contact  
+
+Email: your-cpjishnu161@gmail.com
+
+---
+
+## Statement  
+
+Committed to continuous learning and applying cybersecurity knowledge in an ethical and responsible manner.
