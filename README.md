@@ -18,7 +18,7 @@ Web Technologies:
 HTML, CSS  
 
 Cybersecurity Tools:  
-Nmap, Metasploit, Wireshark  
+Nmap, Metasploit, Wireshark ,sql map , burp suite 
 
 Operating Systems:  
 Kali Linux, Ubuntu  
