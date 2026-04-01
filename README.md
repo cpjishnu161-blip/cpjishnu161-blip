@@ -21,7 +21,7 @@ Cybersecurity Tools:
 Nmap, Metasploit, Wireshark ,sql map , burp suite 
 
 Operating Systems:  
-Kali Linux, Ubuntu  
+Kali Linux, Ubuntu, windows, mac os
 
 ---
 
