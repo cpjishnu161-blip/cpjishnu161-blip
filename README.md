@@ -1,11 +1,11 @@
-#hi im Jishnu  
+HI im Jishnu  
 
 Cybersecurity Student | Ethical Hacking Enthusiast  
 
 ---
 
 ## About Me  
-I am a cybersecurity student from Kannur, Kerala, currently pursuing my training at Offenso Hackers Academy in Calicut. I have a strong interest in ethical hacking, networking, and system security. I am focused on building practical skills and gaining hands-on experience in penetration testing and vulnerability assessment.  
+I am a cybersecurity student from kannur, Kerala, currently pursuing my training at Offenso Hackers Academy in Calicut. I have a strong interest in ethical hacking, networking, and system security. I am focused on building practical skills and gaining hands-on experience in penetration testing and vulnerability assessment.  
 
 ---
 
